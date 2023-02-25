@@ -7,7 +7,7 @@ permalink: /about/
 # 👉 Introduce
 你好😃，欢迎来到我的世界🙌。这里主要记录✍我学习统计、数据分析及编程的学习过程，以下是相关介绍及链接：
 
-# 👉 Project
+# 👉 Blog
 
 ## 🔗 Data Analysis 🔗
 
@@ -28,4 +28,4 @@ permalink: /about/
 ## 🔗 Statistics 🔗
 在统计学板块，我目前学习内容为。
 
-# 👉 Blog
+
