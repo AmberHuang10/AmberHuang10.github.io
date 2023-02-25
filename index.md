@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: home
 home_text: Hello, welcome to my world - statistics/data analysis/transcoding
 title: Amber Huang
 ---
