@@ -1,6 +1,6 @@
 resume_url: "Resume.pdf"
 author_name: "Amber Huang"
-url: amberhuang.com
+url: "https://AmberHuang10.github.io"
 
 plugins:
   - jekyll-seo-tag
