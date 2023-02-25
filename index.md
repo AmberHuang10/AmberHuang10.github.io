@@ -1,5 +1,5 @@
 ---
-layout: home
-home_text: Hey, I think you stole my dog - John Wick
-title: Rohit Jain
+layout: project
+home_text: Hello, welcome to my world - statistics/data analysis/transcoding
+title: Amber Huang
 ---
